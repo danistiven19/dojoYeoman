@@ -8,5 +8,4 @@ describe('dojoyeoman', function () {
   it('should be awesome', function () {
     dojoyeoman().should.equal('awesome');
   });
-
 });
